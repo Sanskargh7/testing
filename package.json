@@ -1,11 +1,11 @@
 {
-  "name": "nodejs-kata-1",
+  "name": "nodejs",
   "version": "1.0.0",
   "main": "src/index.js",
-  "description": "MonBuilding kata by Sauvaigo Grégoire.",
+  "description": "this is assignment",
   "repository": {
-    "type": "git",
-    "url": "git@github.com:echocat/nodejs-kata-1.git"
+    "type": "git"
+    
   },
   "license": "MIT",
   "dependencies": {
